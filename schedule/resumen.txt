@@ -1,0 +1,20 @@
+Archivos que crear:
+
+- Un tad para las listas (tanto ordenada como no)
+- Un tad de asignatua
+- Un tad de horas
+- Un tad para procesar los JSON
+- Un tad de la agenta
+    + Que contenga el año
+    + Las asignatua
+    + Una lista con los día de la semana y las horas de clase.
+- JSON de las asignatua
+    + Año
+    + Asignatuas
+        - Nombre
+        - Abreviaturas
+        - Horas
+            + Día
+            + Hora
+        - Color
+- Un grafing engine
